@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg "
+    },
+    {
+      "id": 2,
+      "title": "Advanced Python Programming",
+      "slug": "advanced-python",
+      "description": "Master advanced Python concepts like decorators, generators, and async.",
+      "price": 149.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "/courses/python.png"
+    },
+    {
+      "id": 3,
+      "title": "Web Development Bootcamp",
+      "slug": "web-dev-bootcamp",
+      "description": "Full-stack development: HTML, CSS, JavaScript, and a modern framework.",
+      "price": 499.00,
+      "instructor": "Alex Johnson",
+      "isFeatured": false,
+      "image": "/courses/webdev.svg"
+    },
+    {
+      "id": 4,
+      "title": "Digital Photography 101",
+      "slug": "photo-101",
+      "description": "Understand your camera settings and compose stunning photographs.",
+      "price": 75.50,
+      "instructor": "Sarah Lee",
+      "isFeatured": true,
+      "image": "/courses/photography.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Data Science with R",
+      "slug": "data-science-r",
+      "description": "Analyze data, create visualizations, and build statistical models using R.",
+      "price": 120.00,
+      "instructor": "Michael Brown",
+      "isFeatured": false,
+      "image": "/courses/r-data-science.png"
+    },
+    {
+      "id": 6,
+      "title": "Effective Public Speaking",
+      "slug": "public-speaking",
+      "description": "Overcome stage fright and deliver clear, persuasive presentations.",
+      "price": 59.99,
+      "instructor": "Emily Clark",
+      "isFeatured": false,
+      "image": "/courses/speaking.jpg"
+    },
+    {
+      "id": 7,
+      "title": "iOS App Development with Swift",
+      "slug": "ios-swift",
+      "description": "Build native iOS applications from scratch using Apple's Swift language.",
+      "price": 199.99,
+      "instructor": "David Wilson",
+      "isFeatured": true,
+      "image": "/courses/ios-swift.webp"
+    },
+    {
+      "id": 8,
+      "title": "Financial Accounting Basics",
+      "slug": "accounting-basics",
+      "description": "Introduction to fundamental accounting principles and practices.",
+      "price": 85.00,
+      "instructor": "Jessica Taylor",
+      "isFeatured": false,
+      "image": "/courses/accounting.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Creative Writing Workshop",
+      "slug": "creative-writing",
+      "description": "Develop your voice and craft compelling stories, poems, and screenplays.",
+      "price": 65.75,
+      "instructor": "Robert Green",
+      "isFeatured": false,
+      "image": "/courses/writing.png"
+    },
+    {
+      "id": 10,
+      "title": "Machine Learning with TensorFlow",
+      "slug": "ml-tensorflow",
+      "description": "Implement machine learning models, including neural networks, with TensorFlow.",
+      "price": 169.50,
+      "instructor": "Sophia Martinez",
+      "isFeatured": true,
+      "image": "/courses/tensorflow.svg"
+    }
+  ]
+}
