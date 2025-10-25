@@ -1,6 +1,7 @@
 import HeroSection from "@/components/HeroSection";
 import FeaturedCourses from "../components/FeaturedCourses";
 import WhyChoseUs from "@/components/WhyChoseUs";
+import MusicSchoolTestimonials from "@/components/MusicSchoolTestimonials";
 
 const Home = () => {
   return (
@@ -8,6 +9,7 @@ const Home = () => {
       <HeroSection />
       <FeaturedCourses />
       <WhyChoseUs />
+      <MusicSchoolTestimonials />
     </main>
   );
 };
