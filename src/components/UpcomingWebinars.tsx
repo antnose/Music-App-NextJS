@@ -2,7 +2,7 @@ import Link from "next/link";
 import { HoverEffect } from "./ui/card-hover-effect";
 
 const UpcomingWebinars = () => {
-  const featuredWebnars = [
+  const featuredWebnars: any = [
     {
       title: "Introduction to Data Science",
       description:
