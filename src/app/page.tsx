@@ -2,6 +2,7 @@ import HeroSection from "@/components/HeroSection";
 import FeaturedCourses from "../components/FeaturedCourses";
 import WhyChoseUs from "@/components/WhyChoseUs";
 import MusicSchoolTestimonials from "@/components/MusicSchoolTestimonials";
+import UpcomingWebinars from "@/components/UpcomingWebinars";
 
 const Home = () => {
   return (
@@ -10,6 +11,7 @@ const Home = () => {
       <FeaturedCourses />
       <WhyChoseUs />
       <MusicSchoolTestimonials />
+      <UpcomingWebinars />
     </main>
   );
 };
